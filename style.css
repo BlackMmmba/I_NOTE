@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px ;
+}
+#you{
+    background-color: rgba(0, 0, 0, 0.854);
+}
+.root{
+    display: inline-block;
+    color: rgba(245, 245, 245, 0.735);
+    padding: 10px;
+
+}
+
+#fo{
+    color: rgba(12, 45, 232, 0.467);
+    background-color: rgba(0, 0, 0, 0.568);
+    padding: 6px;
+    border-color:  rgba(0, 76, 255, 0.467);
+    border-radius: 5px;
+    margin-right: 20px;
+    position: absolute;
+    right: 0px;
+    margin-top: 5px;
+}
+#dog{
+    float: right;
+    padding: 4px;
+    border-radius: 5px;
+    position: absolute;
+    right: 90px;
+    margin-top: 6px;
+
+}
+#h1{
+    font-size: 30px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#filename{
+    border-color: rgba(0, 0, 0, 0.516);
+    box-shadow: 0px 0px black 5px;
+    margin-left: 100px;
+    width: 900px;
+    padding-left: 10px;
+    border-radius: 5px;
+    height: 30px;
+
+}
+#filename::before{
+    border-color: rgba(0, 0, 0, 0.265);
+    padding-bottom: 20px;
+}
+#ssos{
+    margin-left:100px;
+    padding-top: 50px;
+   
+}
+#ssos1{
+    margin-left:100px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#new{
+    margin-left: 100px;
+}
+#table{
+    display: inline-block;
+    border: solid;
+
+}
+#table{
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+#tha{
+    padding-left: 40%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#jojo{
+    border: solid black;
+    margin-left: 200px;
+}
